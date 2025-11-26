@@ -14,7 +14,7 @@ I'm passionate about building scalable web applications and mastering modern PHP
 - **Description:** A Laravel-based web application demonstrating MVC architecture, routing, Blade templating, and modern PHP best practices.
 - **Tech Stack:** Laravel, PHP 8+, MySQL, Blade
 - **Key Learning:** Professional project structure, scalable codebases, full-stack development
-- **Status:** Active & Maintained ✅
+- **Status:** Compeleted✅
 
 ### 🍕 **BYTE**
 - **Repository:** [BYTE](https://github.com/keneil2/BYTE)
