@@ -24,7 +24,7 @@ I'm passionate about building scalable web applications and mastering modern PHP
 - **Status:** Completed
 
 ### 🎯 **PHP Framework**
-- **Repository:** [PHP Framework - Design Patterns](https://github.com/keneil2/PHP-Framework)
+- **Repository:** [PHP Framework - Design Patterns](https://github.com/keneil2/Lara-2.0)
 - **Description:** Deep dive into PHP and design patterns including Facade, Singleton, and Service Container patterns.
 - **Tech Stack:** PHP, OOP, Design Patterns
 - **Key Learning:** Advanced OOP concepts, architectural patterns, framework foundations
